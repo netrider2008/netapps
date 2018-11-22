@@ -34,3 +34,8 @@ http://www.sixtree.com.au/articles/2016/microservices-springboot-camel-docker/
 https://medium.freecodecamp.org/configure-multiple-camel-context-in-spring-boot-application-d3a16396266
 
 http://camel.apache.org/manual/camel-manual-2.9.0.pdf
+
+https://docs.openshift.com/container-platform/3.3/dev_guide/application_lifecycle/promoting_applications.html
+https://stackoverflow.com/questions/46121116/openshift-oc-command-line-with-cygwin
+https://access.redhat.com/documentation/en-us/openshift_container_platform/3.3/html/cli_reference/cli-reference-basic-cli-operations
+http://people.redhat.com/jrivera/openshift-docs_preview/openshift-online/glusterfs-review/dev_guide/application_lifecycle/promoting_applications.html
