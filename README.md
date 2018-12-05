@@ -39,3 +39,5 @@ https://docs.openshift.com/container-platform/3.3/dev_guide/application_lifecycl
 https://stackoverflow.com/questions/46121116/openshift-oc-command-line-with-cygwin
 https://access.redhat.com/documentation/en-us/openshift_container_platform/3.3/html/cli_reference/cli-reference-basic-cli-operations
 http://people.redhat.com/jrivera/openshift-docs_preview/openshift-online/glusterfs-review/dev_guide/application_lifecycle/promoting_applications.html
+
+https://github.com/apache/camel/tree/master/examples/camel-example-spring-boot-health-checks
