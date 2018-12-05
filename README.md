@@ -41,3 +41,6 @@ https://access.redhat.com/documentation/en-us/openshift_container_platform/3.3/h
 http://people.redhat.com/jrivera/openshift-docs_preview/openshift-online/glusterfs-review/dev_guide/application_lifecycle/promoting_applications.html
 
 https://github.com/apache/camel/tree/master/examples/camel-example-spring-boot-health-checks
+https://www.programcreek.com/java-api-examples/index.php?source_dir=dropwizard-camel-master/dropwizard-camel-core/src/main/java/com/commercehub/dropwizard/camel/health/CamelHealthCheck.java#
+
+https://github.com/igor-suhorukov/alarm-system
