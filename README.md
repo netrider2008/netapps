@@ -44,4 +44,5 @@ https://github.com/apache/camel/tree/master/examples/camel-example-spring-boot-h
 https://www.programcreek.com/java-api-examples/index.php?source_dir=dropwizard-camel-master/dropwizard-camel-core/src/main/java/com/commercehub/dropwizard/camel/health/CamelHealthCheck.java#
 
 https://github.com/igor-suhorukov/alarm-system
+https://github.com/spring-projects/spring-kafka/tree/master/samples/sample-03
 https://github.com/kbastani/event-sourcing-microservices-example/tree/master/recommendation-service/src/main/java/io/example/domain/friend
