@@ -83,3 +83,4 @@ http://candidjava.com/tutorial/spring-boot-hibernate-crud-example/
 https://www.jackrutorial.com/2018/04/spring-boot-restful-web-services-crud.html
 https://stormpath.com/blog/tutorial-crud-spring-boot-20-minutes
 https://www.zoltanraffai.com/blog/basic-crud-restfull-spring-boot-mvc-application/
+https://dzone.com/articles/building-a-basic-crud-restful-spring-boot-mvc-appl
