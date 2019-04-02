@@ -84,3 +84,6 @@ https://www.jackrutorial.com/2018/04/spring-boot-restful-web-services-crud.html
 https://stormpath.com/blog/tutorial-crud-spring-boot-20-minutes
 https://www.zoltanraffai.com/blog/basic-crud-restfull-spring-boot-mvc-application/
 https://dzone.com/articles/building-a-basic-crud-restful-spring-boot-mvc-appl
+https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysql-a5d8545d837d
+https://shakeelosmani.wordpress.com/2017/02/13/step-by-step-spring-boot-hibernate-crud-web-application-tutorial/
+https://www.baeldung.com/spring-boot-crud-thymeleaf
