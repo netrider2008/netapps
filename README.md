@@ -74,3 +74,11 @@ https://dzone.com/articles/event-driven-microservices-with-vertx-and-kubernet-1
 https://dzone.com/articles/event-driven-microservices-with-vertx-and-kubernet-2
 https://developers.redhat.com/blog/2018/10/15/eventflow-event-driven-microservices-on-openshift-part-1/
 https://dzone.com/articles/building-elastic-microservices-with-kubernetes-and
+
+
+https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-kafka
+https://www.dev2qa.com/spring-boot-crud-example-with-mysql/
+https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-web-applications.html
+http://candidjava.com/tutorial/spring-boot-hibernate-crud-example/
+https://www.jackrutorial.com/2018/04/spring-boot-restful-web-services-crud.html
+https://stormpath.com/blog/tutorial-crud-spring-boot-20-minutes
