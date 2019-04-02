@@ -87,3 +87,6 @@ https://dzone.com/articles/building-a-basic-crud-restful-spring-boot-mvc-appl
 https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysql-a5d8545d837d
 https://shakeelosmani.wordpress.com/2017/02/13/step-by-step-spring-boot-hibernate-crud-web-application-tutorial/
 https://www.baeldung.com/spring-boot-crud-thymeleaf
+http://tabulator.info/docs/4.2/clipboard
+
+https://jspreadsheets.com/handsontable.html
