@@ -82,3 +82,4 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-dev
 http://candidjava.com/tutorial/spring-boot-hibernate-crud-example/
 https://www.jackrutorial.com/2018/04/spring-boot-restful-web-services-crud.html
 https://stormpath.com/blog/tutorial-crud-spring-boot-20-minutes
+https://www.zoltanraffai.com/blog/basic-crud-restfull-spring-boot-mvc-application/
