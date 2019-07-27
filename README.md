@@ -90,3 +90,21 @@ https://www.baeldung.com/spring-boot-crud-thymeleaf
 http://tabulator.info/docs/4.2/clipboard
 
 https://jspreadsheets.com/handsontable.html
+
+apachekafka 
+https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-producer-consumer-api
+https://www.confluent.io/blog/real-time-financial-alerts-rabobank-apache-kafkas-streams-api/
+https://github.com/ERS-HCL/notifications
+http://cloudurable.com/blog/kafka-tutorial-kafka-producer/index.html
+https://www.javaworld.com/article/3060078/big-data-messaging-with-kafka-part-1.html
+https://dzone.com/articles/writing-a-kafka-consumer-in-java
+https://dzone.com/articles/kafka-producer-in-java
+
+https://github.com/ERS-HCL/awesome-microservices
+https://github.com/ERS-HCL/microservice-starter
+https://github.com/ERS-HCL/rest-yaml-test/tree/master/rest-yaml-test/src/test/java/com/github/rest/yaml/test
+https://github.com/ERS-HCL/lombok-springboot-demo/tree/master/src/main/java/com/hcl/demo
+https://github.com/ERS-HCL/kafka-flink-influxdb-graphana
+https://github.com/ERS-HCL/springboot-tdd/tree/master/docs
+https://github.com/ERS-HCL/springboot-cucumber-demo
+
