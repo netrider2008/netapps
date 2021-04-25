@@ -108,3 +108,15 @@ https://github.com/ERS-HCL/kafka-flink-influxdb-graphana
 https://github.com/ERS-HCL/springboot-tdd/tree/master/docs
 https://github.com/ERS-HCL/springboot-cucumber-demo
 
+
+
+Oracle
+https://github.com/patilankita79/Airport-Management-System-Database-Design
+
+https://github.com/victorst79/PL-SQL-project
+https://www.cs.purdue.edu/homes/bb/CS348-F13/project1/project1.pdf
+https://www.cs.purdue.edu/homes/bb/CS348-F13/project2/project2.pdf
+https://www.cs.purdue.edu/homes/bb/CS348-F13/project3/project3.pdf
+https://www.cs.purdue.edu/homes/bb/CS348-F13/project4/project4.pdf
+
+https://www.cs.purdue.edu/homes/bb/cs542-20Spr/project/description.html
