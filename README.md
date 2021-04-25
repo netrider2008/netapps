@@ -112,7 +112,7 @@ https://github.com/ERS-HCL/springboot-cucumber-demo
 
 Oracle
 https://github.com/patilankita79/Airport-Management-System-Database-Design
-
+https://www.webucator.com/how-to/oracle-project.cfm
 https://github.com/victorst79/PL-SQL-project
 https://www.cs.purdue.edu/homes/bb/CS348-F13/project1/project1.pdf
 https://www.cs.purdue.edu/homes/bb/CS348-F13/project2/project2.pdf
