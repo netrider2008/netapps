@@ -120,3 +120,9 @@ https://www.cs.purdue.edu/homes/bb/CS348-F13/project3/project3.pdf
 https://www.cs.purdue.edu/homes/bb/CS348-F13/project4/project4.pdf
 https://docs.oracle.com/en/database/oracle/oracle-database/21/comsc/schema-diagrams.html#GUID-01BFEF14-C6BD-42CD-8558-DDD214DB3AE0
 https://www.cs.purdue.edu/homes/bb/cs542-20Spr/project/description.html
+
+
+
+https://datamify.com/spring/spring-boot-monitoring-actuator-prometheus-grafana/
+https://datamify.com/spring/distributed-cache-in-spring-boot-application-with-redis/
+https://spring.io/guides/gs/circuit-breaker/
