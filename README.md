@@ -109,6 +109,26 @@ https://github.com/ERS-HCL/springboot-tdd/tree/master/docs
 https://github.com/ERS-HCL/springboot-cucumber-demo
 
 
+#Archietecture Visualization fro braking monolith in to microservcies 
+
+https://laptrinhx.com/a-sample-application-that-demonstrates-how-to-build-a-graph-processing-platform-to-analyze-sources-of-emotional-influence-on-twitter-419033135/
+https://learn.co/lessons/microservices-patterns-chapter-1-2
+https://microservices.io/refactoring/extract-service-delivery-service-step-3.html
+https://developers.soundcloud.com/blog/service-architecture-1
+https://neo4j.com/blog/fixing-microservices-architecture-graphconnect/
+https://codescene.com/blog/visualize-microservice-dependencies-in-team-context/
+https://blog.twitter.com/engineering/en_us/topics/open-source/2016/simplify-service-dependencies-with-nodes
+https://github.com/kbastani/event-sourcing-microservices-example
+https://www.edrawsoft.com/article/microservices-architecture-diagram.html
+
+https://blog.couchbase.com/microservices-architecture-in-couchbase/
+https://codescene.com/blog/visualize-microservice-dependencies-in-team-context/
+https://online.visual-paradigm.com/community/share/microservices-diagram-vpd-k1vze7e92
+https://online.visual-paradigm.com/diagrams/templates/ibm-cloud-architecture-diagram/commerce-diagram/
+https://online.visual-paradigm.com/diagrams/templates/ibm-cloud-architecture-diagram/security-diagram/
+
+https://gist.github.com/kbastani/4f1e5fe25088209dcc26
+https://edwardthienhoang.wordpress.com/2018/08/08/event-driven-microservices-architecture-using-spring-cloud/
 
 Oracle
 https://github.com/patilankita79/Airport-Management-System-Database-Design
